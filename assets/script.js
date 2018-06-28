@@ -5,7 +5,7 @@ var numberOfRecords;
 var startYear;
 var endYear;
 
-function search() {
+function searchActivator() {
     $search.on("click", function() {
 
     }) ;
@@ -30,5 +30,5 @@ function startYear() {
 }
 
 function endYear() {
-    
+
 }
